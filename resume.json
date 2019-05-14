@@ -1,17 +1,62 @@
 {
     "Education": [
-        ""
+        "B.S. Computer Science and Technology Aug 2012 - May 2017",
+        "Monterrey Institute of Technology and Higher Education",
+        "   -Developed web application using RESTful services.",
+        "   -Developed a micro compiler with C++.",
+        "   -Developed a graphical interpreter of frequencies with C++ and open Frameworks.",
+        "Professional ID: 10607890"
     ],
     "Experience": [
-        ""
-    ],
-    "Skills": [
-        ""
-    ],
-    "Programing languages":[    
+        "Business analytics consultor, Biin solutions",
+        "-Puebla, Puebla, Mexico / December 2017 – April 2017",
+        "   *Create a web page with information retrieved from Qlik sense software.",
+        "   *Develop web user Interfaces (desktop and mobile).",
+        "   *Data analysis and creation of dashboards based on information collected from the client.",
+        "---------------------------------------------------------------------------------------------------------------",
+        "Software developer, N12 Estudio",
+        "-Puebla, Puebla, Mexico / April 2017 – September 2017",
+        "   *Develop a web App using MERN (MongoDB, React, Node and Express) stack that allow to create and manage an inventory, scheduling appointment and tracking system.",
+        "   *Designed RESTful backend server enabling inventory, services, client and user information to be store in an online database.",
+        "   *Integrated third party API to storage and manage information (GMail, GCalendar, etc.).",
+        "   *Implement secure authentication with JWT and sessions for multiple users.",
+        "---------------------------------------------------------------------------------------------------------------",
+        "Software developer, Parcellla",
+        "-Guadalajara, Jalisco, Mexico / September 2017 – October 2018",
+        "   *Develop a web App using MERN (MongoDB, React, Node and Express) stack that allow to create and manage an inventory, scheduling appointment with a payment system.",
+        "   *Designed RESTful backend server enabling inventory, services, client and user information to be store in an online database.",
+        "   *Integrated third party API to pay, storage and manage information (openPay, GMail, GCalendar, etc.).",
+        "   *Implement secure authentication with JWT for multiple users.",
+        "   *Develop web user Interfaces (desktop and mobile).",
+        "---------------------------------------------------------------------------------------------------------------",
+        "Software developer, Robert Bosch",
+        "-Guadalajara, Jalisco, Mexico / October 2018 – Present",
+        "   *Develop a bot with Microsoft Bot Framework and LUIS.",
+        "   *Develop a web app with live polls and Q&A for events and conferences.",
+        "   *Designed RESTful backend server enabling questions, polls, client and user information to be store in an online database.",
+        "   *Develop a system that allows bi-directional communication in real-rime with sockets.",
+        "   *Unit testing with Jest.",
+        "   *Develop web user Interfaces (desktop and mobile)."
 
     ],
+    "Skills": [
+        "-Experience with NodeJS in server side with ES6 or typescript syntax.",
+        "-Experience with NoSQL databases as MongoDB.",
+        "-Experience with HTML and CSS and ReactJS for client side and GUI.",
+        "-Knowledge on data structures, algorithms and object-oriented design.",
+        "-Experience with source code and version repository (GIT).",
+        "-Experience working with Linux/Unix systems.",
+        "-Knowledge with MVC architecture.",
+        "-Familiar with Jest testing.",
+        "-Ability to learn new technologies quickly."
+    ],
+    "Programing languages and technologies":[    
+        "-Programing Language: C++, JavaScript (es6+) HTML, CSS, PHP",
+        "-Frameworks and libraries: express, ReactJS",
+        "-Database: Mongo and MySQL"
+    ],
     "Language": [
-        ""
+        "-Spanish: Mother language",
+        "-English: TOEFL ITP 560 points"
     ]
 }

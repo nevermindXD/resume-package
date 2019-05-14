@@ -10,7 +10,7 @@ var resume = require("./resume.json");
 
 var resumePrompts = {
     type: "list",
-    name: "resumeOptions",
+    name: "Section",
     message: "",
     choices: [...Object.keys(resume), "Exit"]
 };
@@ -22,15 +22,15 @@ function main() {
 
 function resumeHandler() {
     inquirer.prompt(resumePrompts).then(answer => {
-      if (answer.resumeOptions == "Exit") {
+      if (answer.Section == "Exit") {
         return;
       }
-      var option = answer.resumeOptions;
-      console.log(response("--------------------------------------"));
+      var option = answer.Section;
+      console.log(response("******************************************************************************************************************"));
       resume[`${option}`].forEach(info => {
         console.log(response("|   " + info));
       });
-      console.log(response("--------------------------------------"));
+      console.log(response("******************************************************************************************************************"));
       inquirer
         .prompt({
           type: "list",
