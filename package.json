@@ -1,0 +1,19 @@
+{
+  "name": "jcoj_resume",
+  "version": "1.0.0",
+  "description": "Juan Carlos Olivier Jasso Resume in a NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Carlos Olivier Jasso (nevermindXD)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevermindXD/resume-package.git"
+  },
+}
