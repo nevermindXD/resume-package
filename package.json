@@ -16,4 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/nevermindXD/resume-package.git"
   },
+  "bin": {
+    "jcoj_resume": "./index.js"
+  }
 }
