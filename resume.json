@@ -8,13 +8,13 @@
         "Professional ID: 10607890"
     ],
     "Experience": [
-        "Business analytics consultor, Biin solutions",
+        "Intern of business analytics consultor, Biin solutions",
         "-Puebla, Puebla, Mexico / December 2016 – April 2017",
         "   *Created a web page with information retrieved from Qlik sense software.",
         "   *Developed web user Interfaces (desktop and mobile).",
         "   *Data analysis and creation of dashboards based on information collected from the client.",
         "---------------------------------------------------------------------------------------------------------------",
-        "Software developer, N12 Estudio",
+        " Freelance Software developer, N12 Estudio",
         "-Puebla, Puebla, Mexico / April 2017 – September 2017",
         "   *Develop a web App using MERN (MongoDB, React, Node and Express) stack that allow to create and manage an inventory, scheduling appointment and tracking system.",
         "   *Designed RESTful backend server enabling inventory, services, client and user information to be store in an online database.",
@@ -31,12 +31,13 @@
         "---------------------------------------------------------------------------------------------------------------",
         "Software developer, Robert Bosch",
         "-Guadalajara, Jalisco, Mexico / October 2018 – Present",
-        "   *Developed a bot with Microsoft Bot Framework and LUIS.",
-        "   *Developed a web app with live polls and Q&A for events and conferences.",
+        "   *Developed a bot with Microsoft Bot Framework and LUIS and Express (NodeJS).",
+        "   *Developed a web app with live polls and Q&A for events and conferences using TypeScript, Express and mongoDB.",
         "   *Designed RESTful backend server enabling questions, polls, client and user information to be store in an online database.",
         "   *Developed a system that allows bi-directional communication in real-rime with sockets.",
         "   *Unit testing with Jest.",
-        "   *Developed web user Interfaces (desktop and mobile)."
+        "   *Developed web user Interfaces (desktop and mobile).",
+        "   *Migrating front end web app from Multiple Page Application to a Single Page Application(React Native)"
 
     ],
     "Skills": [
@@ -51,7 +52,7 @@
         "-Ability to learn new technologies quickly."
     ],
     "Programing languages and technologies":[    
-        "-Programing Language: C++, JavaScript (ES6+) HTML, CSS, PHP",
+        "-Programing Language: C++, JavaScript (ES6+), Typescript, HTML, CSS, PHP",
         "-Frameworks and libraries: express, ReactJS",
         "-Database: Mongo and MySQL"
     ],
